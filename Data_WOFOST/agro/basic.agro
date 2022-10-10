@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 9999-01-01:
+    CropCalendar:
+        crop_name: 'xxxxxx'
+        variety_name: 'xxxxxx-yyy'
+        crop_start_date: yyyy-mm-dd
+        crop_start_type: emergence/sowing
+        crop_end_date: yyyy-mm-dd
+        crop_end_type: maturity/harvest
+        max_duration: xxx
+    TimedEvents: null
+    StateEvents: null

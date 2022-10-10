@@ -1,0 +1,28 @@
+Version: 1.0
+AgroManagement:
+- 2006-08-01:
+    CropCalendar:
+        crop_name: wheat
+        variety_name: Winter_wheat_101
+        crop_start_date: 2006-09-15
+        crop_start_type: sowing
+        crop_end_date:
+        crop_end_type: maturity
+        max_duration: 300
+    TimedEvents: null
+    StateEvents: null
+- 2007-09-01:
+    CropCalendar: null
+    TimedEvents: null
+    StateEvents: null
+- 2008-03-01:
+    CropCalendar:
+        crop_name: sugarbeet
+        variety_name: Sugarbeet_601
+        crop_start_date: 2008-04-15
+        crop_start_type: sowing
+        crop_end_date:
+        crop_end_type: maturity
+        max_duration: 200
+    TimedEvents: null
+    StateEvents: null
