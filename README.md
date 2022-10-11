@@ -20,7 +20,7 @@ Please download this repository or clone it
 
 On the GitHub repository, click in `Code`, then `Download ZIP` 
 
-![Download](/Users/alencar/Library/CloudStorage/OneDrive-Personal/@_PostDoc/IntroToPython/images/download.png)
+![Download](https://github.com/pedroalencar1/IntroToPython/blob/master/images/download.png?raw=true)
 
 Then, move the downloaded file to your work directory and unzip it
 
@@ -28,7 +28,7 @@ Then, move the downloaded file to your work directory and unzip it
 
 On the GitHub repository, click in `Code`, copy the `HTTPS` URL
 
-![Clone](/Users/alencar/Library/CloudStorage/OneDrive-Personal/@_PostDoc/IntroToPython/images/clone.png)
+![Clone](https://github.com/pedroalencar1/IntroToPython/blob/master/images/clone.png?raw=true)
 
 In your terminal, `cd` to your work directory and then use the comand
 
