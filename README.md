@@ -14,9 +14,9 @@ In the notebooks we introduce:
 * [WOFOST](https://www.wur.nl/en/research-results/research-institutes/environmental-research/facilities-tools/software-models-and-databases/wofost.htm) 
 
 ## Getting started
-Please download this repository or clone it
+Please *download* **or** *clone* this repository.
 
-### Download:
+### To download:
 
 On the GitHub repository, click in `Code`, then `Download ZIP` 
 
@@ -24,13 +24,13 @@ On the GitHub repository, click in `Code`, then `Download ZIP`
 
 Then, move the downloaded file to your work directory and unzip it
 
-### Clone:
+### To clone:
 
 On the GitHub repository, click in `Code`, copy the `HTTPS` URL
 
 ![Clone](https://github.com/pedroalencar1/IntroToPython/blob/master/images/clone.png?raw=true)
 
-In your terminal, `cd` to your work directory and then use the comand
+In your command prompt (Windows) or terminal (Linux/MacOS), use `cd path/to/your/work/directory` to take you to your work directory and then use the command
 
 `git clone https://github.com/pedroalencar1/IntroToPython.git`
  
