@@ -13,10 +13,12 @@ In the notebooks we introduce:
 * [Seaborn](https://seaborn.pydata.org/)
 * [WOFOST](https://www.wur.nl/en/research-results/research-institutes/environmental-research/facilities-tools/software-models-and-databases/wofost.htm) 
 
-## Getting started
-Please download this repository or clone it
+The first two notebooks cover the basic structures and packages for python and will be covered on the first class (24.11.2022). The third notebook, that presents the WOFOST model will be covered on the second class (01.12.2022).
 
-### Download:
+## Getting started
+Please *download* **or** *clone* this repository.
+
+### To download:
 
 On the GitHub repository, click in `Code`, then `Download ZIP` 
 
@@ -24,7 +26,7 @@ On the GitHub repository, click in `Code`, then `Download ZIP`
 
 Then, move the downloaded file to your work directory and unzip it
 
-### Clone:
+### To clone:
 
 On the GitHub repository, click in `Code`, copy the `HTTPS` URL
 
