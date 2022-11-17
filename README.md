@@ -32,7 +32,7 @@ On the GitHub repository, click in `Code`, copy the `HTTPS` URL
 
 ![Clone](https://github.com/pedroalencar1/IntroToPython/blob/master/images/clone.png?raw=true)
 
-In your terminal, `cd` to your work directory and then use the comand
+In your command prompt (Windows) or terminal (Linux/MacOS), use `cd path/to/your/work/directory` to take you to your work directory and then use the command
 
 `git clone https://github.com/pedroalencar1/IntroToPython.git`
  
